@@ -1,4 +1,4 @@
-# Slush vvv-site [![Build Status](https://secure.travis-ci.org/wpscholar/slush-vvv-site.png?branch=master)](https://travis-ci.org/wpscholar/slush-vvv-site) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-vvv-site.png)](http://badges.enytc.com/for/npm/slush-vvv-site)
+# slush vvv-site
 
 > Generate a new site in Varying Vagrant Vagrants
 
